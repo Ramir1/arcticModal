@@ -1,0 +1,17 @@
+{
+    "name": "smskin/arcticModal",
+    "description": "Fork arcticModal with composer",
+    "keywords": ["arcticModal"],
+    "homepage": "http://arcticlab.ru/arcticmodal",
+    "author": {
+    	"name": "arcticlab.ru",
+    	"url": "http://arcticlab.ru"
+    },
+    "repository": {
+    	"type": "git",
+    	"url": "https://github.com/smskin/arcticModal.git"
+    },
+    "support": {
+        "source": "https://github.com/vjik/arcticModal",
+    },
+}
