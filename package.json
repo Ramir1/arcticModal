@@ -1,0 +1,5 @@
+{
+    "name": "arcticModal",
+    "main": "arcticmodal/jquery.arcticmodal.js",
+"version": "0.3.0"
+}
